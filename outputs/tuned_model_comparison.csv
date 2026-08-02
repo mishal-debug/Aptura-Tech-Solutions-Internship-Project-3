@@ -1,0 +1,3 @@
+model,train_accuracy,test_accuracy,precision,recall,f1_score,roc_auc,train_test_gap,best_params,cv_best_score
+LogisticRegression (Tuned),0.8094729344729344,0.8021352313167259,0.660958904109589,0.5188172043010753,0.5813253012048193,0.8409723740228379,0.007337703156208519,"{'model__C': 10, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}",0.8502076677409205
+GradientBoosting (Tuned),0.8098290598290598,0.8,0.6730038022813688,0.47580645161290325,0.5574803149606299,0.8393797687079079,0.009829059829059794,"{'model__n_estimators': 200, 'model__max_depth': 2, 'model__learning_rate': 0.03}",0.8477864149466633

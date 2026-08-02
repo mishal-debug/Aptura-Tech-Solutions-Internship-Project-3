@@ -1,0 +1,10 @@
+{
+  "final_model_name": "LogisticRegression",
+  "train_accuracy": 0.8094729344729344,
+  "test_accuracy": 0.8021352313167259,
+  "precision": 0.660958904109589,
+  "recall": 0.5188172043010753,
+  "f1_score": 0.5813253012048193,
+  "roc_auc": 0.8409723740228379,
+  "train_test_gap": 0.007337703156208519
+}
